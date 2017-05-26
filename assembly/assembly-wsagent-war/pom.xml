@@ -127,6 +127,14 @@
             <groupId>org.eclipse.che.plugin</groupId>
             <artifactId>che-plugin-zend-debugger-server</artifactId>
         </dependency>
+        <dependency>
+            <groupId>org.eclipse.che.sample</groupId>
+            <artifactId>che-sample-plugin-wizard-server</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.eclipse.che.sample</groupId>
+            <artifactId>che-sample-plugin-wizard-shared</artifactId>
+        </dependency>
     </dependencies>
     <build>
         <plugins>

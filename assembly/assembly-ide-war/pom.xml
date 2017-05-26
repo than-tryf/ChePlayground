@@ -216,6 +216,14 @@
             <artifactId>che-plugin-zend-debugger-ide</artifactId>
         </dependency>
         <dependency>
+            <groupId>org.eclipse.che.sample</groupId>
+            <artifactId>che-sample-plugin-wizard-ide</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.eclipse.che.sample</groupId>
+            <artifactId>che-sample-plugin-wizard-shared</artifactId>
+        </dependency>
+        <dependency>
             <groupId>javax.servlet</groupId>
             <artifactId>javax.servlet-api</artifactId>
             <scope>provided</scope>
